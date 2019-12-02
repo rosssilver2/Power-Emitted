@@ -20,4 +20,4 @@ Then open the notebook. For example, on a linux type system, type
 
 cd Power-Emitted
 
-jupyter notebook Powwer-Emitted.ipynb
+jupyter notebook Power-Emitted.ipynb
