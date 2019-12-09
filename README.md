@@ -20,10 +20,10 @@ The notebook requires the following python modules:
 ## Usage
 
 Clone the repository by typing
-git clone https://github.com/rosssilver2/Power-Emitted.git
+**git clone https://github.com/rosssilver2/Power-Emitted.git**
 
 Then open the notebook. For example, on a linux type system, type
 
-cd Power-Emitted
+**cd Power-Emitted**
 
-jupyter notebook Power-Emitted.ipynb
+**jupyter notebook Power-Emitted.ipynb**
