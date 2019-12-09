@@ -3,7 +3,7 @@
 
 ## Introduction
 
-This [Jupyter Notebook] () demonstrates emitted power distributions (Eq. 4.99 in our text, Radiative Processes in Astrophysics by Rybicki and Lightman ) for arbitrary acceleration. This equation can be found on page 142.
+This [Jupyter Notebook] () demonstrates emitted power distributions (Eq. 4.99 in our text, Radiative Processes in Astrophysics by Rybicki and Lightman ) for arbitrary acceleration. This equation can be found on page 142. It is licensed under the [GNU GPL3](https://www.gnu.org/licenses/gpl-3.0.en.html) license.
 
 ## Dependencies
 
