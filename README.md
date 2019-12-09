@@ -3,15 +3,15 @@
 
 ## Introduction
 
-The task was to "Demonstrate emitted power distributions (Eq. 4.99 in your text) for arbitrary acceleration." Our textbook is Radiative Processes in Astrophysics by Rybicki and Lightman. This equation can be found on page 142.
+This [Jupyter Notebook] () demonstrates emitted power distributions (Eq. 4.99 in our text, Radiative Processes in Astrophysics by Rybicki and Lightman ) for arbitrary acceleration. This equation can be found on page 142.
 
-Dependencies
+## Dependencies
 
 The notebook requires the following python modules:
 
 
 
-Usage
+## Usage
 
 Clone the repository by typing
 git clone https://github.com/rosssilver2/Power-Emitted.git
