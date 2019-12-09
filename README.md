@@ -9,6 +9,12 @@ This [Jupyter Notebook] () demonstrates emitted power distributions (Eq. 4.99 in
 
 The notebook requires the following python modules:
 
+- [matplotlib](https://pypi.org/project/matplotlib/)
+
+- [numpy](https://pypi.org/project/numpy/)
+
+- [mpl_toolkits](https://matplotlib.org/mpl_toolkits/)
+
 
 
 ## Usage
